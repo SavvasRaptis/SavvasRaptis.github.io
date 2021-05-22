@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://savvasraptis.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Savvas"
-  avatar           : "profile.png"
+  avatar           : "savvas2.png"
   bio              : "PhD student on Space and Plasma physcs | at KTH, Royal Institute of Technoloy"
   location         : "Stockholm, SE"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PNW-OJEAAAAJ"
-  email            : "savvra@kth.se , savvasraptis@gmail.com"
+  email            : "savvra@kth.se ; savvasraptis@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Savvas_Raptis"
   uri              :
   bitbucket        :
