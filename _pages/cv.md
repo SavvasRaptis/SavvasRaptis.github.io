@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-PDF link: http://savvasraptis.github.io/files/GeneralShortCV.pdf
+Links (Download)
+======
+[Short CV (PDF)](http://savvasraptis.github.io/files/GeneralShortCV.pdf)
+
 Education
 ======
 * Diploma in Physics (4 years), National and Kapodistrian University of Athens,, 2016
