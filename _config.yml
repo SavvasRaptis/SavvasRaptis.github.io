@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Savvas"
   avatar           : "Savvas2.png"
-  bio              : "PhD | Space and Plasma physcs"
+  bio              : "PhD | Space and Plasma physics"
   location         : "Stockholm, SE"
-  employer         : "KTH, Royal Institute of Technology"
+  employer         : #"KTH"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PNW-OJEAAAAJ"
   email            : "savvra@kth.se ; savvasraptis@gmail.com"
