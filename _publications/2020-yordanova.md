@@ -13,7 +13,7 @@ doi: 10.3389/fspas.2020.00002'
 ---
 
 
-[PDF](https://www.savvasraptis.github.io/files/2020/fspas-07-00002.pdf)
+[PDF](https://www.savvasraptis.github.io/files/papers/2020/fspas-07-00002.pdf)
 
 Abstract:
 ------

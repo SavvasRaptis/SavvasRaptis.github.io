@@ -10,10 +10,10 @@ Kullen, A., & Lindqvist, P.-A. (2020).
 Classifying magnetosheath jets using
 MMS: Statistical properties. Journal of
 Geophysical Research: Space Physics,
-125, e2019JA027754. https://doi.org/10.1029/2019JA027754'
+125, e2019JA027754. https://doi.org/10.1029/2019JA027754 '
 ---
 
-[PDF](https://www.savvasraptis.github.io/files/2020/2019JA027754.pdf)
+[PDF](https://www.savvasraptis.github.io/files/papers/2020/2019JA027754.pdf)
 
 Abstract:
 ------
