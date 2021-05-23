@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-Links (Download)
+Links (PDF/Download)
 ======
-[Short CV (PDF)](http://savvasraptis.github.io/files/GeneralShortCV.pdf)
+[Short CV](http://savvasraptis.github.io/files/cv/ShortCV.pdf)
 
 Education
 ======
