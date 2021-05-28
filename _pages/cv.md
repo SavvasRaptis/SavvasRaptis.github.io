@@ -16,33 +16,26 @@ Links (PDF/Download)
 
 Education
 ======
-* Diploma in Physics (4 years), National and Kapodistrian University of Athens,, 2016
-* Master in Astronomy & Astrophysics (2 years), KU Leuven, 2018
-* Doctorate in Space & Plasma Physics (4 years), KTH, Royal Institute of Technology, 2022 (expected)
+* Diploma in Physics (4-year), National and Kapodistrian University of Athens,, 2016
+* Master in Astronomy & Astrophysics (2-year), KU Leuven, 2018
+* Doctorate in Space & Plasma Physics (4-year), KTH, Royal Institute of Technology, 2022 (expected)
 
 Work experience
 ======
 * 2019 - now : Lecturer & Teaching Assistant
   * KTH, Royal Institute of Technology
-  * Courses included:...
+  * Courses included: Electric Circuits, LaTeX, Electromagnetism & Space Physics
 
 * 2018 - now : PhD Researcher
   * KTH, Royal Institute of Technology
   * Research on space & plasma physics, including data analysis, simulations and machine learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * Matlab
+  * C++
 
 Publications
 ======
@@ -61,7 +54,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

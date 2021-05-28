@@ -13,7 +13,7 @@ Geophysical Research: Space Physics,
 125, e2019JA027754. https://doi.org/10.1029/2019JA027754 '
 ---
 
-[PDF](https://www.savvasraptis.github.io/files/papers/2020/2019JA027754.pdf)
+[PDF](http://www.savvasraptis.github.io/files/papers/2020/2019JA027754.pdf)
 
 Abstract:
 ------
