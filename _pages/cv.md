@@ -16,9 +16,9 @@ Links (PDF/Download)
 
 Education
 ======
-* Diploma in Physics (4-year), National and Kapodistrian University of Athens,, 2016
-* Master in Astronomy & Astrophysics (2-year), KU Leuven, 2018
-* Doctorate in Space & Plasma Physics (4-year), KTH, Royal Institute of Technology, 2022 (expected)
+* Doctorate in Space & Plasma Physics, KTH, Royal Institute of Technology, 2022 (expected)
+* Master in Astronomy & Astrophysics, KU Leuven, 2018
+* Diploma in Physics, National and Kapodistrian University of Athens, 2016
 
 Work experience
 ======

@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2020-raptis-a
 date: 30-05-2021
 venue: 'Geophysical Research Letters'
-paperurl: 'TODO'
-citation: 'TODO'
+paperurl: ''
+citation: ''
 ---
 
 
