@@ -7,9 +7,3 @@ venue: 'Geophysical Research Letters'
 paperurl: ''
 citation: ''
 ---
-
-
-Abstract:
-------
-
-TODO
